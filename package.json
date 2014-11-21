@@ -1,0 +1,28 @@
+{
+  "name": "scriptroot",
+  "version": "1.0.0",
+  "description": "Get the URI for the folder where a script is loaded from.",
+  "main": "index.js",
+  "contributors": [{
+    "name": "Simon Elvery",
+    "email": "elvery.simon@abc.net.au"
+  }],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:abcnews/scriptroot.git"
+  },
+  "keywords": [
+    "uri",
+    "javascript",
+    "root",
+    "path"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abcnews/scriptroot/issues"
+  },
+  "homepage": "https://github.com/abcnews/scriptroot"
+}
